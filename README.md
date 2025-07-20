@@ -1,7 +1,7 @@
 <h1 align="center">Namaste🙏, I'm Shristi</h1>
 <h3 align="center">Aspiring Full-Stack Web Developer | MERN Stack Intern | Building real-world solutions</h3>
 
-- 🔭 I’m currently working on [Digital Pathshala, MERN stack Intern](https://github.com/Anubis1030/Digital-pathshala-testomonial-page/tree/Shristi)
+- 🔭 I’m currently working on [Digital Pathshala, MERN stack Intern]
 
 - 🌱 I’m learning **React.js, Node.js, MongoDB and full-stack development workflows.**
 
@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/shristipokharel55](https://github.com/shristipokharel55)
 
-- 💬 Ask me about **react, html, css,**
+- 💬 Ask me about **react, html, css, javascript**
 
 - 📫 Reach me at **shristipokharel889@gmail.com**
 
