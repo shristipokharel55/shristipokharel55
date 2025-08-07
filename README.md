@@ -3,13 +3,13 @@
 
 - 🔭 I’m currently working on [Digital Pathshala, MERN stack Intern]
 
-- 🌱 I’m learning **React.js, Node.js, MongoDB and full-stack development workflows.**
+- 🌱 I’m learning **React.js, Node.js, MongoDB, Express.js and full-stack development workflows.**
 
 - 🛠️ I’ve built projects like [Eventory (Event Management System) and Home-Again (Lost & Found System)](https://github.com/shristipokharel55/Eventory, https://github.com/shristipokharel55/Home-Again)
 
 - 👨‍💻 All of my projects are available at [https://github.com/shristipokharel55](https://github.com/shristipokharel55)
 
-- 💬 Ask me about **react, html, css, javascript**
+- 💬 Ask me about **html, css, javascript and MERN stack**
 
 - 📫 Reach me at **shristipokharel889@gmail.com**
 
