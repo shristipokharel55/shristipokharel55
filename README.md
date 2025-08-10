@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/shristipokharel55](https://github.com/shristipokharel55)
 
-- 💬 Ask me about **html, css, javascript and MERN stack**
+- 💬 Ask me about **html, css, javascript and MERN**
 
 - 📫 Reach me at **shristipokharel889@gmail.com**
 
