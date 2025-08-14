@@ -15,7 +15,7 @@
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/shristi-pokharel-252875268/](https://www.linkedin.com/in/shristi-pokharel-252875268/)
 
-- 🎯 Fun fact: **I enjoy planning and designing detailed projects!**
+- 🎯 Fun fact: **I enjoy designing and building detailed projects!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
