@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **html, css, javascript and MERN**
 
-- 📫 Reach me at **shristipokharel889@gmail.com**
+- 📫 Get in touch with me at **shristipokharel889@gmail.com**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/shristi-pokharel-252875268/](https://www.linkedin.com/in/shristi-pokharel-252875268/)
 
