@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-  <img src="https://i.ibb.co/vvstL9y/coding-girl-ai.png" alt="Girl coding" width="300" />
+  <img src="[https://i.ibb.co/vvstL9y/coding-girl-ai.png](https://www.pinterest.com/pin/3166662232696181/)" alt="Girl coding" width="300" />
 </p>
 
 <h3 align="center">🚀 MERN Stack Intern | 💡 Passionate about Building & Learning</h3>
