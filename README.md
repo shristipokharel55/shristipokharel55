@@ -1,9 +1,15 @@
 <h1 align="center">
-  <img 
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=2D9AFF&center=true&vCenter=true&width=500&lines=Namaste+🙏;I'm+Shristi+Pokharel;Aspiring+Full+Stack+Web+Developer;MERN+Stack+Intern;Building+Real+World+Solutions" 
-    alt="Shristi Pokharel Typing Animation" 
-  />
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
+  Namaste, I'm Shristi
 </h1>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=2D9AFF&center=true&vCenter=true&width=500&lines=MERN+Stack+Developer;Full+Stack+Web+Developer;Always+Learning+New+Things" alt="Typing Animation" />
+</p>
+
+<p align="center">
+  <img src="https://i.ibb.co/vvstL9y/coding-girl-ai.png" alt="Girl coding" width="300" />
+</p>
 
 <h3 align="center">🚀 MERN Stack Intern | 💡 Passionate about Building & Learning</h3>
 
