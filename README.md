@@ -1,6 +1,8 @@
-<!-- Animated Header -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=2D9AFF&center=true&vCenter=true&width=500&lines=Namaste+🙏;I'm+Shristi+Pokharel;Aspiring+Full+Stack+Web+Developer;MERN+Stack+Intern;Building+Real+World+Solutions" alt="Typing SVG" />
+  <img 
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=2D9AFF&center=true&vCenter=true&width=500&lines=Namaste+🙏;I'm+Shristi+Pokharel;Aspiring+Full+Stack+Web+Developer;MERN+Stack+Intern;Building+Real+World+Solutions" 
+    alt="Shristi Pokharel Typing Animation" 
+  />
 </h1>
 
 <h3 align="center">🚀 MERN Stack Intern | 💡 Passionate about Building & Learning</h3>
