@@ -25,7 +25,7 @@
 - 💬 Ask me about **HTML, CSS, JavaScript, MERN**  
 - 📫 Email: **shristipokharel889@gmail.com**  
 - 📄 [LinkedIn Profile](https://www.linkedin.com/in/shristi-pokharel-252875268/)  
-- 🎯 Fun Fact: **I love designing detailed UI/UX for projects**  
+- 🎯 Fun Fact: **I love designing detailed UI/UX for web projects**  
 
 ---
 
