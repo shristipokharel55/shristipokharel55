@@ -1,6 +1,6 @@
 <h1 align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
-  Namaste, I'm Shristi
+  Namaste, I'm Shristi, a 3rd year BIT student
 </h1>
 
 <p align="center">
