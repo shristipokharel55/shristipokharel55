@@ -1,4 +1,4 @@
-<h1 align="center">
+  <h1 align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
   Namaste, I'm Shristi, a 3rd year BIT student
 </h1>
@@ -41,7 +41,7 @@
 
 ### 🛠 Languages & Tools  
 <p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,mysql,sqlite,git,figma,django" />
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,sqlite,git,figma,django" />
 </p>
 
 ---
