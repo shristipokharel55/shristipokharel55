@@ -12,7 +12,7 @@
 </p>
 
 
-<h3 align="center">🚀 MERN Stack Intern | 💡 Passionate about Building & Learning</h3>
+<h3 align="center">🚀 MERN Stack Developer | 💡 Passionate about Building & Learning</h3>
 
 ---
 
