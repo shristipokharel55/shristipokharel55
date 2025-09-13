@@ -18,7 +18,7 @@
 
 ### 👩‍💻 About Me  
 - 🔭 Currently working on **Digital Pathshala** (MERN stack internship)  
-- 🌱 Learning **React.js, Node.js, MongoDB, Express.js**  
+- 🌱 Learning **React.js, Node.js, MongoDB, Express.js(MERN Stack)**  
 - 🛠️ Built projects:  
   - [Eventory - Event Management System](https://github.com/shristipokharel55/Eventory)  
   - [Home-Again - Lost & Found System](https://github.com/shristipokharel55/Home-Again)  
