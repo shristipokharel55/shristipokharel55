@@ -5,6 +5,15 @@
 
 ---
 
+---
+
+### 💡 Motivational Quote for Coders  
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=800&lines=%22Talk+is+cheap.+Show+me+the+code.%22+-+Linus+Torvalds;Keep+calm+and+code+on+💻;Code.+Debug.+Repeat.+🚀;Dream+in+code,+live+in+reality+✨" alt="Motivational Coding Quote" />
+</p>
+
+
 <!-- 🔥 Animated Typing Header -->
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=2800&pause=1000&color=FF5733&center=true&vCenter=true&width=650&lines=👩‍💻+MERN+Stack+Developer;🚀+Full+Stack+Web+Developer;✨+Always+Learning+New+Things;🎨+Loves+UI%2FUX+Design;🌏+Open+Source+Enthusiast" alt="Typing Animation" />
