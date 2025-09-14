@@ -67,3 +67,13 @@
 </p>
 
 ---
+
+<p align="center">
+  <img src="https://i.ibb.co/vvstL9y/coding-girl-ai.png" alt="Girl coding" width="300" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=shristipokharel55&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+</p>
+
+---
