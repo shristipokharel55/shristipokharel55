@@ -6,8 +6,9 @@
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=800&lines=%22Talk+is+cheap.+Show+me+the+code.%22+-+Linus+Torvalds;Keep+calm+and+code+on+💻;Code.+Debug.+Repeat.+🚀;Dream+in+code,+live+in+reality+✨" alt="Motivational Coding Quote" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=F77B9C&center=true&vCenter=true&width=900&lines=Every+bug+you+fix+is+a+step+closer+to+magic+✨;Code+isn't+just+logic,+it's+a+piece+of+your+heart+💖;Errors+are+not+failures,+they+are+hidden+lessons+🌱;One+line+of+code+today+can+change+your+tomorrow+🌏;Keep+coding,+keep+growing,+keep+glowing+🌸" alt="Cute Motivational Quotes" />
 </p>
+
 
 
 <!-- 🔥 Animated Typing Header -->
